@@ -1,0 +1,27 @@
+[submodule "lazy-code/Teensy4LazyBoard/lib/ChRt"]
+	path = lazy-code/Teensy4LazyBoard/lib/ChRt
+	url = git@github.com:william-redenbaugh/ChRt.git
+[submodule "lazy-code/Teensy4LazyBoard/lib/Adafruit-GFX"]
+	path = lazy-code/Teensy4LazyBoard/lib/Adafruit-GFX
+	url = git@github.com:william-redenbaugh/Adafruit-GFX-Library
+[submodule "lazy-code/Teensy4LazyBoard/lib/nanopb"]
+	path = lazy-code/Teensy4LazyBoard/lib/nanopb
+	url = https://github.com/nanopb/nanopb
+[submodule "lazy-code/Teensy4LazyBoard/lib/Adafruit-SSD1351-library"]
+	path = lazy-code/Teensy4LazyBoard/lib/Adafruit-SSD1351-library
+	url = git@github.com:william-redenbaugh/Adafruit-SSD1351-library.git
+[submodule "pcb v2/keypadV2/lib/footprints/keyswitches.pretty"]
+	path = pcb v2/keypadV2/lib/footprints/keyswitches.pretty
+	url = git@github.com:daprice/keyswitches.pretty.git
+[submodule "pcb v2/keypadV2/lib/footprints/teensy.pretty"]
+	path = pcb v2/keypadV2/lib/footprints/teensy.pretty
+	url = git@github.com:XenGi/teensy.pretty.git
+[submodule "pcb v2/keypadV2/lib/symbols/teensy_library"]
+	path = pcb v2/keypadV2/lib/symbols/teensy_library
+	url = git@github.com:XenGi/teensy_library.git
+[submodule "lazy-code/Teensy4LazyBoard/lib/chibi-lpwork"]
+	path = lazy-code/Teensy4LazyBoard/lib/chibi-lpwork
+	url = git@github.com:william-redenbaugh/chibi-lpwork.git
+[submodule "lazy-code/Teensy4LazyBoard/lib/Adafruit-GFX-Library"]
+	path = lazy-code/Teensy4LazyBoard/lib/Adafruit-GFX-Library
+	url = git@github.com:william-redenbaugh/Adafruit-GFX-Library.git
